@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Easy file upload utility inspired by ui-uploader.",
   "main": "dist/index.js",
-  "engines": {
-    "node": ">= 4.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/whatl3y/simple-file-uploader.git"
